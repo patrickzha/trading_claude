@@ -1,0 +1,11 @@
+pandas
+numpy
+xgboost
+shap
+hmmlearn
+statsmodels
+yfinance
+requests
+matplotlib
+scikit-learn
+scipy
