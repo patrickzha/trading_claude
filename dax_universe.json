@@ -1,0 +1,124 @@
+{
+  "tickers": {
+    "ADS.DE": {
+      "sector": "INDU"
+    },
+    "AIR.PA": {
+      "sector": "INDU"
+    },
+    "ALV.DE": {
+      "sector": "FIN"
+    },
+    "BAS.DE": {
+      "sector": "MATER"
+    },
+    "BAYN.DE": {
+      "sector": "INDU"
+    },
+    "BEI.DE": {
+      "sector": "INDU"
+    },
+    "BMW.DE": {
+      "sector": "INDU"
+    },
+    "BNR.DE": {
+      "sector": "INDU"
+    },
+    "CBK.DE": {
+      "sector": "FIN"
+    },
+    "CON.DE": {
+      "sector": "INDU"
+    },
+    "DTG.DE": {
+      "sector": "INDU"
+    },
+    "DBK.DE": {
+      "sector": "FIN"
+    },
+    "DB1.DE": {
+      "sector": "FIN"
+    },
+    "DHL.DE": {
+      "sector": "INDU"
+    },
+    "DTE.DE": {
+      "sector": "INDU"
+    },
+    "EOAN.DE": {
+      "sector": "UTIL"
+    },
+    "FRE.DE": {
+      "sector": "INDU"
+    },
+    "FME.DE": {
+      "sector": "INDU"
+    },
+    "G1A.DE": {
+      "sector": "INDU"
+    },
+    "HNR1.DE": {
+      "sector": "FIN"
+    },
+    "HEI.DE": {
+      "sector": "INDU"
+    },
+    "HEN3.DE": {
+      "sector": "INDU"
+    },
+    "IFX.DE": {
+      "sector": "TECH"
+    },
+    "MBG.DE": {
+      "sector": "INDU"
+    },
+    "MRK.DE": {
+      "sector": "INDU"
+    },
+    "MTX.DE": {
+      "sector": "INDU"
+    },
+    "MUV2.DE": {
+      "sector": "FIN"
+    },
+    "PAH3.DE": {
+      "sector": "INDU"
+    },
+    "QIA.DE": {
+      "sector": "INDU"
+    },
+    "RHM.DE": {
+      "sector": "INDU"
+    },
+    "RWE.DE": {
+      "sector": "UTIL"
+    },
+    "SAP.DE": {
+      "sector": "TECH"
+    },
+    "G24.DE": {
+      "sector": "INDU"
+    },
+    "SIE.DE": {
+      "sector": "INDU"
+    },
+    "ENR.DE": {
+      "sector": "INDU"
+    },
+    "SHL.DE": {
+      "sector": "INDU"
+    },
+    "SY1.DE": {
+      "sector": "MATER"
+    },
+    "VOW3.DE": {
+      "sector": "INDU"
+    },
+    "VNA.DE": {
+      "sector": "REAL"
+    },
+    "ZAL.DE": {
+      "sector": "INDU"
+    }
+  }
+}

@@ -1,0 +1,2029 @@
+{
+  "sector_to_code": {
+    "Communication Services": 0,
+    "Consumer Discretionary": 1,
+    "Consumer Staples": 2,
+    "Energy": 3,
+    "Financials": 4,
+    "Health Care": 5,
+    "Industrials": 6,
+    "Information Technology": 7,
+    "Materials": 8,
+    "Real Estate": 9,
+    "Utilities": 10
+  },
+  "tickers": {
+    "MMM": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "AOS": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "ABT": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "ABBV": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "ACN": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ADBE": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "AMD": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "AES": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "AFL": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "A": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "APD": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "ABNB": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "AKAM": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ALB": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "ARE": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "ALGN": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "ALLE": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "LNT": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "ALL": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "GOOGL": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "GOOG": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "MO": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "AMZN": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "AMCR": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "AEE": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "AEP": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "AXP": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "AIG": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "AMT": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "AWK": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "AMP": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "AME": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "AMGN": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "APH": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ADI": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "AON": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "APA": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "APO": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "AAPL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "AMAT": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "APP": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "APTV": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "ACGL": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "ADM": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "ARES": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "ANET": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "AJG": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "AIZ": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "T": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "ATO": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "ADSK": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ADP": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "AZO": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "AVB": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "AVY": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "AXON": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "BKR": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "BALL": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "BAC": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "BAX": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "BDX": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "BRK-B": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "BBY": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "TECH": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "BIIB": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "BLK": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "BX": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "XYZ": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "BNY": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "BA": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "BKNG": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "BSX": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "BMY": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "AVGO": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "BR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "BRO": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "BF-B": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "BLDR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "BG": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "BXP": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "CHRW": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "CDNS": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "CPT": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "COF": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CAH": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "CCL": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "CARR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "CVNA": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "CASY": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CAT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "CBOE": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CBRE": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "CDW": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "COR": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "CNC": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "CNP": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "CF": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "CRL": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "SCHW": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CHTR": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "CVX": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "CMG": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "CB": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CHD": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CIEN": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "CI": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "CINF": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CTAS": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "CSCO": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "C": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CFG": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CLX": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CME": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CMS": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "KO": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CTSH": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "COHR": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "COIN": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CL": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CMCSA": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "FIX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "COP": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "ED": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "STZ": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CEG": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "COO": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "CPRT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "GLW": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "CPAY": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CTVA": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "CSGP": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "COST": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "CRH": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "CRWD": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "CCI": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "CSX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "CMI": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "CVS": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "DHR": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "DRI": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "DDOG": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "DVA": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "DECK": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "DE": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "DELL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "DAL": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "DVN": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "DXCM": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "FANG": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "DLR": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "DG": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "DLTR": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "D": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "DPZ": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "DASH": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "DOV": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "DOW": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "DHI": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "DTE": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "DUK": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "DD": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "ETN": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "EBAY": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "ECHO": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "ECL": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "EIX": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "EW": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "EA": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "ELV": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "EME": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "EMR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "ETR": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "EOG": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "EQT": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "EFX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "EQIX": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "EQR": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "ERIE": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "ESS": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "EL": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "EG": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "EVRG": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "ES": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "EXC": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "EXE": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "EXPE": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "EXPD": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "EXR": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "XOM": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "FFIV": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "FDS": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "FICO": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "FAST": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "FRT": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "FDX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "FDXF": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "FIS": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "FITB": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "FSLR": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "FE": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "FISV": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "FLEX": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "F": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "FTNT": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "FTV": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "FOXA": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "FOX": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "BEN": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "FCX": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "GRMN": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "IT": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "GE": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "GEHC": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "GEV": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "GEN": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "GNRC": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "GD": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "GIS": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "GM": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "GPC": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "GILD": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "GPN": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "GL": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "GDDY": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "GS": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "HAL": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "HIG": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "HAS": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "HCA": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "DOC": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "HSIC": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "HSY": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "HPE": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "HLT": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "HD": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "HONA": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "HON": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "HRL": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "HST": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "HWM": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "HPQ": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "HUBB": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "HUM": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "HBAN": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "HII": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "IBM": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "IEX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "IDXX": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "ITW": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "INCY": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "IR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "PODD": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "INTC": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "IBKR": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "ICE": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "IFF": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "IP": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "INTU": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ISRG": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "IVZ": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "INVH": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "IQV": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "IRM": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "JBHT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "JBL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "JKHY": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "J": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "JNJ": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "JCI": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "JPM": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "KVUE": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "KDP": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "KEY": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "KEYS": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "KMB": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "KIM": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "KMI": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "KKR": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "KLAC": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "KHC": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "KR": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "LHX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "LH": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "LRCX": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "LVS": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "LDOS": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "LEN": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "LII": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "LLY": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "LIN": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "LYV": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "LMT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "L": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "LOW": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "LULU": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "LITE": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "LYB": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "MTB": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "MPC": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "MAR": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "MRSH": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "MLM": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "MRVL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "MAS": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "MA": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "MKC": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "MCD": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "MCK": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "MDT": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "MRK": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "META": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "MET": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "MTD": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "MGM": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "MCHP": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "MU": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "MSFT": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "MAA": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "MRNA": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "TAP": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "MDLZ": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "MPWR": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "MNST": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "MCO": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "MS": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "MOS": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "MSI": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "MSCI": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "NDAQ": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "NTAP": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "NFLX": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "NEM": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "NWSA": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "NWS": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "NEE": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "NKE": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "NI": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "NDSN": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "NSC": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "NTRS": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "NOC": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "NCLH": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "NRG": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "NUE": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "NVDA": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "NVR": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "NXPI": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ORLY": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "OXY": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "ODFL": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "OMC": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "ON": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "OKE": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "ORCL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "OTIS": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "PCAR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "PKG": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "PLTR": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "PANW": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "PSKY": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "PH": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "PAYX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "PYPL": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "PNR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "PEP": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "PFE": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "PCG": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "PM": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "PSX": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "PNW": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "PNC": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "PPG": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "PPL": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "PFG": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "PG": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "PGR": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "PLD": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "PRU": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "PEG": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "PTC": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "PSA": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "PHM": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "PWR": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "QCOM": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "DGX": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "Q": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "RL": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "RJF": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "RTX": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "O": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "REG": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "REGN": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "RF": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "RSG": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "RMD": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "RVTY": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "HOOD": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "ROK": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "ROL": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "ROP": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ROST": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "RCL": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "SPGI": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "CRM": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SNDK": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SBAC": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "SLB": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "STX": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SRE": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "NOW": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SHW": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "SPG": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "SWKS": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SJM": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "SW": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "SNA": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "SOLV": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "SO": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "LUV": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "SWK": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "SBUX": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "STT": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "STLD": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "STE": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "SYK": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "SMCI": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SYF": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "SNPS": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "SYY": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "TMUS": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "TROW": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "TTWO": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "TPR": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "TRGP": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "TGT": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "TEL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "TDY": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "TER": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "TSLA": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "TXN": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "TPL": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "TXT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "TMO": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "TJX": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "TKO": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "TTD": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "TSCO": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "TT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "TDG": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "TRV": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "TRMB": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "TFC": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "TYL": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "TSN": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "USB": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "UBER": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "UDR": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "ULTA": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "UNP": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "UAL": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "UPS": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "URI": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "UNH": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "UHS": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "VLO": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "VEEV": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "VTR": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "VLTO": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "VRSN": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "VRSK": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "VZ": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "VRTX": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "VRT": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "VTRS": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "VICI": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "V": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "VST": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "VMC": {
+      "sector": "MATER",
+      "sector_code": 8
+    },
+    "WRB": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "GWW": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "WAB": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "WMT": {
+      "sector": "CONS_S",
+      "sector_code": 2
+    },
+    "DIS": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "WBD": {
+      "sector": "COMM",
+      "sector_code": 0
+    },
+    "WM": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "WAT": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "WEC": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "WFC": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "WELL": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "WST": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "WDC": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "WY": {
+      "sector": "REAL",
+      "sector_code": 9
+    },
+    "WSM": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "WMB": {
+      "sector": "ENERGY",
+      "sector_code": 3
+    },
+    "WTW": {
+      "sector": "FIN",
+      "sector_code": 4
+    },
+    "WDAY": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "WYNN": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "XEL": {
+      "sector": "UTIL",
+      "sector_code": 10
+    },
+    "XYL": {
+      "sector": "INDU",
+      "sector_code": 6
+    },
+    "YUM": {
+      "sector": "CONS_D",
+      "sector_code": 1
+    },
+    "ZBRA": {
+      "sector": "TECH",
+      "sector_code": 7
+    },
+    "ZBH": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    },
+    "ZTS": {
+      "sector": "HEALTH",
+      "sector_code": 5
+    }
+  }
+}

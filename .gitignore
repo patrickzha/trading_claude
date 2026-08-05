@@ -1,0 +1,22 @@
+# 本地Python环境，体积大(~1.5GB)，不应该进git，云端routine会自己装依赖
+.conda/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 大体积/非源码的运行产物
+run_log.txt
+shap_week_*.png
+
+# 中途修bug时留的备份文件，不需要留在git历史里
+*_BACKUP.json
+*_BACKUP.md
+*_backup_*.md
+*_backup_*.csv
+
+# macOS
+.DS_Store
+
+# Claude Code本地会话配置(hook脚本里是写死的本地绝对路径，云端环境用不上)
+.claude/

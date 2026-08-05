@@ -1,0 +1,2 @@
+log_timestamp,decision_date,momentum_picks,value_picks,low_vol_picks,bond_weight_suggestion,realized_momentum_return,realized_value_return,realized_low_vol_return,realized_combo_return,cumulative_realized_nav
+2026-08-03 19:14:57,2026-07-31,SMCI|HPE,CMCSA|FOX|FOXA|LYB|EIX|SYF|ALL|CME|T|ACGL|CHTR|APA|LULU|AOS|KLAC|F|HIG|FISV|PYPL|DVN|PHM|SOLV|TROW|LDOS|DHI|VZ|NKE|CINF|AES|DAL,EA|AES|BRK-B|FRT|L|REG|AFL|ATO|WEC|PEG|AIZ|FE|DUK|SO|ED|EVRG|SYY|INVH|WBD|EQR|PFE|PNW|DTE|NI|CNP|IEX|PRU|LNT|O|SRE,0.10,,,,,1.000000
